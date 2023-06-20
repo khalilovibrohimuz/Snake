@@ -15,7 +15,7 @@ Har holda bu o'yinni bilmaydigan odamni o'zi bo'lmasa kerak, hammamiz bilgan NOK
 <i> Khalilov Ibrohim </i> 🙍🏻‍♂️
 <hr>
 <h2> Men bilan elektron pochta 📮 orqali bog'lanishingiz mumkin! 😉 </h2>      
-👉🏻 [khalilovibrohimuz@gmail.com](mailto:khalilovibrohimuz@gmail.com) 👈🏻
+👉🏻 <a href="mailto://khalilovibrohimuz@gmail.com">khalilovibrohimuz@gmail.com</a> 👈🏻
 <hr>
 
 <h2> Tavfsilotlar 💁🏻 </h2>
