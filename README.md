@@ -25,6 +25,10 @@ Bu o'yin menga o'yin yaratishni o'rganishimga va OOP ni yaxshi tushunishimga yor
 Kod hammaga ochiq va siz bu loyihadagi kodlarga qarab o'yin yaratishni o'rganishingiz mumkin bo'ladi <br>
 Ishingizda omad ✊
 
+Dasturni ishga tushirish uchun snake.py faylini ishga tushirishingiz kerak, <br>
+bundan oldin kompyuteringizga python interpreteri va pygame kutubxonasi o'rnatilganligiga <br>
+ishonch hosil qiling
+
 <hr>
 <h2> Muallif ijtimoiy tarmoqlarda </h2>
 GitHub havolasi 👉🏻 <a href="https://github.com/khalilovibrohimuz"> Khalilov Ibrohim </a> 👈🏻 Boshqa dasturlarimni shu joydan topishingiz mumkin 😉 <br>

@@ -12,7 +12,7 @@ class Game:
         self.TILES = (PLAYGROUND_SIZE[0] // self.TILE, PLAYGROUND_SIZE[1] // self.TILE)
         self.active = False
         self.speed = 4
-        self.music = pygame.mixer.Sound("source/assets/audio/music/theme.mp3")
+        self.music = pygame.mixer.Sound("source/assets/audio/music/theme short.mp3")
         self.score = 0
         self.delay = 0
         self.snake = Snake.Snake(self.TILE, self.TILES, (self.TILES[0] // 2 - 1, self.TILES[1] // 2), 'right', 'east')
